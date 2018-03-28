@@ -1,4 +1,4 @@
-# 433MHz-Sniffer
+# 433MHz Sniffer
 
 # How to connect?
 ## The Sniffer
@@ -14,7 +14,7 @@
 2. When a signal is transmited, you could see what it's says in serial monitor.
 
 
-# How to Spoof?
+# How to spoof?
 1. Modify the "send.ino" and add the params that you get with the sniffer.
 2. Load it in arduino.
 3. Have fun :D
