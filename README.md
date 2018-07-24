@@ -1,12 +1,9 @@
 # 433MHz Sniffer
 
 # How to connect?
-## The Sniffer
+## The Diagram (Just for testing purposes)
 
-![Sniffer Connect](https://github.com/franc205/433MHz-Sniffer/blob/master/diagrams/sniffer.jpg)
-## The Spoofer
-
-![Spoofer Connect](https://github.com/franc205/433MHz-Sniffer/blob/master/diagrams/spoofer.jpg)
+![Sniffer Connect](https://github.com/franc205/433MHz-Sniffer/blob/master/diagrams/prototype-one.png)
 
 
 # How to sniff?
